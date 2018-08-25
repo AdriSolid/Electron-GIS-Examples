@@ -1,1 +1,0 @@
-export const alcoy = () => [-0.481, 38.698];
